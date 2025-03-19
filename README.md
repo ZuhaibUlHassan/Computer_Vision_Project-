@@ -1,5 +1,11 @@
-
 # CVProject
+
+## Group Members:
+Adil Iqbal (2021-SE-10)
+
+Zuhaib Ul Hassan (2021-SE-13)
+
+Rehan Ali (2021-SE-21)
 
 ## Overview
 
