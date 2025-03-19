@@ -13,7 +13,8 @@ pip install -r requirements.txt
 
 Usage
 1) Clone this repository:
-git clone https://github.com/yourusername/CVProject-1.git
+git clone https://github.com/ZuhaibUlHassan/CVProject-1.git
+
 cd CVProject-1
 
 2) Open the Jupyter Notebook
@@ -29,6 +30,7 @@ Matplotlib
 TensorFlow/PyTorch (if applicable)
 
 Folder Structure:
+
 CVProject-1/
 │── data/            # Dataset and sample images
 │── models/          # Saved models (if any)
