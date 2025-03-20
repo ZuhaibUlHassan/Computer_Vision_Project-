@@ -110,8 +110,3 @@ The repository includes:
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request. When contributing, please adhere to the existing code style and include tests for any new functionality.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
